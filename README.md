@@ -30,8 +30,8 @@ Stress Monitor is a Python application that connects to a Bluetooth Low Energy (
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/Stress-Monitor.git
-   cd Stress-Monitor
+   git clone https://github.com/mrnorz/Mirolab-mindease.git
+   cd Mirolab-mindease
 
 ## Install dependencies:
 
